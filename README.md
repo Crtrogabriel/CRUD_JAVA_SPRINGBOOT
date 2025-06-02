@@ -13,6 +13,7 @@ This repository contains a simple CRUD project built using Java Spring. The aim 
 1. Clone the repository:
 
 ```bash
+https://github.com/Crtrogabriel/CRUD_JAVA_SPRINGBOOT.git
 ```
 
 2. Install dependencies with Maven
